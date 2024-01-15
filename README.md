@@ -1,5 +1,4 @@
 ## classify the Size_Categorie using SVM
-
  -month	month of the year: 'jan' to 'dec'
  -day	day of the week: 'mon' to 'sun'
  - FFMC	FFMC index from the FWI system: 18.7 to 96.20
